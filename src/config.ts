@@ -12,4 +12,4 @@
 //
 // Until this is set, everything works except opening Project Gutenberg books
 // (your own uploaded EPUB/TXT files always work).
-export const BOOK_RELAY_URL = "";
+export const BOOK_RELAY_URL = "https://lector-relay.hnaghiyev.workers.dev/";
